@@ -1,0 +1,4 @@
+Question: Why are you interested in taking CMSC320?
+Answer: I want to learn more about how complex data sets are analyzed and interpreted
+to solve problems in the real world. I want to learn the data science techniques and strategies
+to make impactful decisions based on the patterns drawn.
